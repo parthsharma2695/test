@@ -1,3 +1,6 @@
 x=1
 y=2
 z=10000
+
+hello=jello
+bello=mellow
