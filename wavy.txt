@@ -3,8 +3,7 @@ y=2
 ka=4
 z=10000.0000
 
-hello=jello
-bello=mellow
-jello=othello
-
+hell=jell
+ello=mello
+ello=othell
 wasser=me_lunn
