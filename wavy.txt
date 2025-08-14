@@ -4,3 +4,4 @@ z=10000
 
 hello=jello
 bello=mellow
+jello=othello
