@@ -5,5 +5,6 @@ z=10000.0000
 
 hello=jello
 bello=mellow
+jello=othello
 
 wasser=me_lunn
