@@ -1,5 +1,5 @@
-x=1
-y=2
+x1=143294
+y=22989038
 ka=4
 z=10000.0000
 
@@ -7,3 +7,6 @@ hell=jell
 ello=mello
 ello=othell
 wasser=me_lunn
+
+jinne=wich_baliye_tu_saari_sajdi
+unne_ch_mitra_de=boot_aunde_aa
